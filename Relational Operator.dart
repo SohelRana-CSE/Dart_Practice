@@ -5,7 +5,7 @@ void main() {
   print("The example of Relational Operator");
 
   var res = a>b;
-  print("a is greater than b: "+res. toString());  // We will learn the toString in next tutorial
+  print("a is greater than b: "+res. toString());  //toString use for
 
   var res0 = a<b;
   print("a is less than b: "+res0. toString());
